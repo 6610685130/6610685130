@@ -1,0 +1,75 @@
+body {
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    background-color: #C96868;
+    color: #ffffff;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.josefin-sans {
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.nerko-one-regular {
+    font-family: "Nerko One", cursive;
+    font-weight: 700;
+    font-style: normal;
+}
+
+
+.box {
+    max-width: 1000px;
+    margin: auto;
+    background-color: #FADFA1;
+    border-radius: 20px;
+    padding: auto;
+    display: flex;
+    align-items: center;
+    /* จัดให้อยู่ตรงกลางแนวตั้ง */
+    flex-direction: column;
+    /* จัดข้อความให้อยู่เรียงในแนวตั้ง */
+    text-align: center;
+    /* จัดข้อความให้อยู่ตรงกลาง */
+
+}
+
+h1 {
+    color: #557C56;
+    font-size: 5em;
+    margin-top: 35px;
+    padding-top: 35px;
+}
+
+h2 {
+    color: #7EACB5;
+    font-size: 3.5em;
+}
+
+p {
+    color: #33372C;
+    font-size: 2em;
+    margin-bottom: 15px;
+    padding-bottom: 50px;
+    padding-left: 45px;
+    line-height: 1.6;
+    /* ปรับระยะห่างระหว่างบรรทัด */
+    text-align: left;
+    /* จัดข้อความให้อยู่ชิดซ้าย */
+    margin: auto;
+}
+
+
+
+img {
+    display: block;
+    margin: 10px auto;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
