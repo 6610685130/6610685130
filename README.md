@@ -1,5 +1,4 @@
 # About Me
-![image](IMG_20240821_011904_236.webp)
 
 Basic Information  
 NickName : LeeVan  
